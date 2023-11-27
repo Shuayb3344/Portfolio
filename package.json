@@ -1,0 +1,12 @@
+{
+  "name": "html-freebie-triple-p-master",
+  "version": "1.0.0",
+  "description": "Website Template Name: Triple P (Pixel Perfect Portfolio)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
